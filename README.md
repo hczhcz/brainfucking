@@ -1,4 +1,4 @@
-brainfucking
+Brainfucking
 ============
 
 Brainfuck Code Collection
